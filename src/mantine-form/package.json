@@ -1,6 +1,6 @@
 {
-  "name": "@mantine/form",
-  "description": "Mantine form management library",
+  "name": "r-mantine-form",
+  "description": "A Fork of Mantine form",
   "version": "5.10.2",
   "main": "cjs/index.js",
   "module": "esm/index.js",
@@ -10,7 +10,7 @@
   "sideEffects": false,
   "homepage": "https://mantine.dev",
   "repository": {
-    "url": "https://github.com/mantinedev/mantine.git",
+    "url": "https://github.com/huongdevvn/mantine",
     "type": "git",
     "directory": "src/mantine-hooks"
   },
